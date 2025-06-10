@@ -13,9 +13,7 @@ This project uses an LSTM-based deep learning model to classify SMS messages as 
 
 ## 📁 Structure
 
-- `train_model.py`: Train the LSTM model
-- `evaluate_model.py`: Accuracy, F1-score, Confusion Matrix
-- `test_model.py`: Predict custom SMS text
+- `app.py`: Predict custom SMS text
 - `spam_classifier.h5`: Trained model
 - `tokenizer.pkl`: Tokenizer used for input processing
 
